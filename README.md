@@ -1,6 +1,6 @@
-# ECG Classifier Repository
+# ECG Classificatin
 
-This repository contains the implementation of an ECG (Electrocardiogram) classification system using Python. The code processes ECG signal data, applies machine learning algorithms, and evaluates the performance of different classifiers.
+This  is the implementation of an ECG (Electrocardiogram) classification system using Python. The code processes ECG signal data, applies machine learning algorithms, and evaluates the performance of different classifiers.
 
 ## Contents
 
